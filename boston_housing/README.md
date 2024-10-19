@@ -38,14 +38,4 @@ Preliminary analysis indicates that key factors influencing house prices include
 ## Conclusion
 The Boston House Price Prediction project successfully develops a predictive model that can estimate house prices based on various influential features. The model demonstrates high accuracy, making it a valuable tool for stakeholders in the real estate market. Future work may involve enhancing model performance through advanced techniques like hyperparameter tuning or exploring additional datasets for more comprehensive insights. 
 
-This project bridges the gap between available data and actionable insights, empowering users with reliable predictions for informed decision-making in the housing market.
 
-Citations:
-[1] https://github.com/NishadKhudabux/Boston-House-Price-Prediction
-[2] https://github.com/shridhar1504/Boston-House-Price-Prediction-Datascience-Project
-[3] https://www.scaler.com/topics/machine-learning/boston-house-price-prediction/
-[4] https://www.hackersrealm.net/post/boston-house-price-prediction-analysis-using-python
-[5] https://www.enjoyalgorithms.com/blog/boston-house-price-prediction-using-machine-learning/
-[6] https://sist.sathyabama.ac.in/sist_naac/documents/1.3.4/1822-b.e-ece-batchno-120.pdf
-[7] https://www.geeksforgeeks.org/house-price-prediction-using-machine-learning-in-python/
-[8] https://www.geeksforgeeks.org/ml-boston-housing-kaggle-challenge-with-linear-regression/
